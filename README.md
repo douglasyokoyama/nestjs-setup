@@ -1,2 +1,3 @@
 # nestjs-setup
-NestJs, TypeORM and PostgreSQL
+
+NestJs, TypeORM and PostgreSQL (Docker)
